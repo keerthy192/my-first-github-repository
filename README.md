@@ -5,4 +5,5 @@ lets start
 
 This line was modified manually during conflicts resolution
 
-new line added locally
+ the new line added locally
+
